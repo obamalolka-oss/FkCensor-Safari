@@ -1,0 +1,14 @@
+{
+  "name": "fkcensor-safari",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Подмена записей Яндекс Музыки в Safari через Userscripts",
+  "scripts": {
+    "build": "node scripts/build-userscripts.cjs",
+    "test": "node scripts/build-userscripts.cjs && node --test Tests/*.test.cjs",
+    "audit:public": "node scripts/audit-public.cjs",
+    "check:network": "node scripts/check-network.cjs",
+    "check:browser": "node scripts/check-browser-csp.cjs"
+  },
+  "engines": { "node": ">=22" }
+}

@@ -1,0 +1,30 @@
+# Local accounts, sessions and test browsers
+.browser-lab/
+webview/
+state.json
+ipc.json
+support/
+network-check.json
+*.log
+*.har
+*.db
+*.sqlite*
+# Secrets, local settings and signing material
+.env
+.env.*
+*.local.json
+*.pem
+*.key
+*.p12
+*.pfx
+*.mobileprovision
+xcuserdata/
+# Dependencies and build output
+node_modules/
+dist/
+*.zip
+*.exe
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

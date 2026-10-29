@@ -1,0 +1,8 @@
+[
+  ["base", "https://raw.githubusercontent.com/Hazzz895/FckCensorData/refs/heads/main/list_v2.json"],
+  ["liberty", "https://raw.githubusercontent.com/gagayhhad-tech/ym-liberty-db/main/list.json"],
+  ["additional", "https://raw.githubusercontent.com/seuyh/FckCensorDataAdditional/main/list_v2.json"],
+  ["ink-fun-v2", "https://raw.githubusercontent.com/ink-fun/FckCensorData/main/list_v2.json"],
+  ["ink-fun-v1", "https://raw.githubusercontent.com/ink-fun/FckCensorData/main/list.json"],
+  ["fck-v1", "https://raw.githubusercontent.com/Hazzz895/FckCensorData/refs/heads/main/list.json"]
+]
