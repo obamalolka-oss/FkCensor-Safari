@@ -4,12 +4,12 @@
 
 ## 1. Сохраните два скрипта
 
-В разделе **Releases** этого репозитория скачайте **FkCensor-Userscripts-1.0.1.zip**, сохраните в «Файлы» и нажмите на архив для распаковки. В папке `userscripts` должны находиться:
+Скачайте **[FkCensor-Userscripts-1.0.1.zip](https://github.com/obamalolka-oss/FkCensor-Safari/releases/download/v1.0.1/FkCensor-Userscripts-1.0.1.zip)**, сохраните в «Файлы» и нажмите на архив для распаковки. В папке `userscripts` должны находиться:
 
 - `FkCensor-1-player.user.js` — подключение подмены к плееру;
 - `FkCensor-2-lists.user.js` — списки, загрузка файлов и диагностика.
 
-До появления релиза эти же файлы можно скачать из папки `userscripts` репозитория через **Raw / Download raw file**. Не сохраняйте HTML-страницу GitHub вместо JavaScript. Сохраняйте имена с окончанием `.user.js`.
+Те же файлы доступны отдельно: [первый скрипт](https://raw.githubusercontent.com/obamalolka-oss/FkCensor-Safari/main/userscripts/FkCensor-1-player.user.js) и [второй скрипт](https://raw.githubusercontent.com/obamalolka-oss/FkCensor-Safari/main/userscripts/FkCensor-2-lists.user.js). Не сохраняйте HTML-страницу GitHub вместо JavaScript. Сохраняйте имена с окончанием `.user.js`.
 
 ## 2. Настройте Userscripts
 
